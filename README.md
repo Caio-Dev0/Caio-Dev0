@@ -1,4 +1,4 @@
-## Opa, beleza? Meu nome é Caio Lucas, estudante de Engenharia de Software e fascinado por Tecnologia. 🙂
+## Opa, beleza? Meu nome é Caio Lucas, estudante de Engenharia de Software e apaixonado por Tecnologia. 🙂
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Dev0&show_icons=true&theme=radical">
