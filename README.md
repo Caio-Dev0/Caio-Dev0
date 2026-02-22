@@ -1,44 +1,46 @@
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,35&height=200&section=header&text=Caio%20Lucas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=55)
 
-<h1>
-  Opa, beleza? Meu nome é Caio Lucas! 😃<br>
-</h1>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/caio-dev0/))
+[![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/caio-dev0/))
 
-<p> 
-  Sou um estudante de Engenharia de Software, que cada vez mais se apaixona pelos desafios da programação e pelo desenvolvimento. Atualmente estou estudando sobre FrontEnd, com o próposito de futuramente virar um Dev Full stack !!!😎
-</p>
-
-<h2>
-  Skills ⭐
-</h2>
-
-<div> 
-  <img align="center" alt="Javascript-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />        
-  <img align="center" alt="HTML-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
 
-<h2>
-  Skills ainda em desenvolvimento ⚙️
-</h2>
-<div>
-  <img alt="Figma-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
-  <img alt="Git-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />        
+---
+
+## :rainbow: Sobre mim
+
+:art: Desenvolvedor frontend apaixonado por design e interfaces bonitas
+
+:seedling: Atualmente estudando **React e UI/UX**, e cursando **Engenharia de Software**
+
+:briefcase: Trabalhando com **HTML, CSS e JavaScript**
+
+:zap: Fun fact: **um dos meu animes favoritos é One Piece 🏴‍☠️**
+
+---
+
+## :computer: Tech Stack
+
+<div align="center">
+
+### Linguagens
+![HTML5](https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Libs
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
+### Ferramentas
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-BD34FE?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 </div>
 
-
-<h2>
-  Se quiser trocar uma ideia para projetos ou bater um papo, chama lá 👇
-</h2>
-<div> 
-  <a href="https://www.instagram.com/caio_dev0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:clucaszrtmain@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-lucas-118525343/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<h2>Git Hub Métricas</h2>
-
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Dev0&show_icons=true&theme=radical">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Dev0&theme=radical"
-</div>
+---
