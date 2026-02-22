@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,35&height=200&section=header&text=Caio%20Lucas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=55)
 
-  <a href="https://www.linkedin.com/in/Caio-Dev0">
+  <a href="https://www.linkedin.com/in/caio-dev0">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Caio-Dev0">
