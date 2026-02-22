@@ -9,7 +9,7 @@
 
 ---
 
-## :rainbow: Sobre mim
+## 🥇 Sobre mim
 
 :art: Desenvolvedor frontend apaixonado por design e interfaces bonitas
 
