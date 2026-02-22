@@ -2,9 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,35&height=200&section=header&text=Caio%20Lucas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=55)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/caio-dev0/))
-[![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/caio-dev0/))
-
+  <a href="https://www.linkedin.com/in/Caio-Dev0">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Caio-Dev0">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
