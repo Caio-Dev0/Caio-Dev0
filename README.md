@@ -14,13 +14,13 @@
 
 ## 🥇 Sobre mim
 
-:art: Desenvolvedor frontend apaixonado por design e interfaces bonitas
-
-:seedling: Atualmente estudando **React e UI/UX**, e cursando **Engenharia de Software**
-
-:briefcase: Trabalhando com **HTML, CSS e JavaScript**
-
-:zap: Fun fact: **um dos meu animes favoritos é One Piece 🏴‍☠️**
+🎓 Estudante de Engenharia de Software 
+  
+💻 Focado em desenvolvimento Front-End
+  
+📚 Atualmente estudando React e Typescript 
+  
+🌎 Interessado em oportunidades internacionais no futuro
 
 ---
 
