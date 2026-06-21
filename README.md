@@ -2,10 +2,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,35&height=200&section=header&text=Caio%20Lucas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=55)
 
-  <a href="https://www.linkedin.com/in/caio-dev0">
+  <a href="https://www.linkedin.com/in/lucas-devsss/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Caio-Dev0">
+  <a href="https://github.com/lucas-devsss">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -18,7 +18,7 @@
   
 💻 Focado em desenvolvimento Front-End
   
-📚 Atualmente estudando React e Typescript 
+📚 Atualmente estudando o ecossistema React e Typescript
   
 🌎 Interessado em oportunidades internacionais no futuro
 
@@ -38,6 +38,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactRouter](https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 
 ### Ferramentas
