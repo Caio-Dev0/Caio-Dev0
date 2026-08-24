@@ -12,15 +12,15 @@
 
 ---
 
-## 🥇 Sobre mim
+## 🥇 About Me
 
-🎓 Estudante de Engenharia de Software 
+🎓 Software Engineering Student
   
-💻 Focado em desenvolvimento Front-End
+💻 Focusing on Front End Development
   
-📚 Atualmente estudando o ecossistema React e Typescript
+📚 Studying the React Ecosystem with Typescript 
   
-🌎 Interessado em oportunidades internacionais no futuro
+🌎 Open to and interested in international opportunities
 
 ---
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-### Linguagens
+### Languanges
 ![HTML5](https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,7 +41,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 
-### Ferramentas
+### Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-BD34FE?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
